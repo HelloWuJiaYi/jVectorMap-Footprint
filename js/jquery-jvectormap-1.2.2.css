@@ -1,0 +1,53 @@
+.jvectormap-label {
+    position: absolute;
+    display: none;
+    
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    background: #292929;
+    color: white;
+    font-family: sans-serif, Verdana;
+    font-size: smaller;
+	opacity: 0.9;
+    padding: 6px 13px;
+	box-shadow: 20px 20px 25px 5px rgba(0, 0, 0, 0.4);
+	-webkit-box-shadow: 20px 20px 25px 5px rgba(0, 0, 0, 0.4);
+	-moz-box-shadow: 20px 20px 25px 5px rgba(0, 0, 0, 0.4);
+}
+
+.jvectormap-zoomin, .jvectormap-zoomout {
+    position: absolute;
+    left: 10px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    background: #969696;
+    padding: 3px;
+    color: white;
+    width: 10px;
+    height: 10px;
+    cursor: pointer;
+    line-height: 10px;
+    text-align: center;
+	opacity: 0.3;
+	-webkit-transition: opacity .25s linear;
+}
+
+.jvectormap-zoomin:hover, .jvectormap-zoomout:hover {
+	opacity: 0.8;
+	-webkit-transition: opacity .25s linear;
+}
+
+.jvectormap-zoomin:active, .jvectormap-zoomout:active {
+	opacity: 1;
+	-webkit-transition: opacity .25s linear;
+}
+
+.jvectormap-zoomin {
+    top: 10px;
+}
+
+.jvectormap-zoomout {
+    top: 30px;
+}
