@@ -180,7 +180,13 @@ Demo : <http://www.wujiayi.vip/index.php/46.html>
 
 ## 获取源码
 
-GitHub : <https://github.com/HelloWuJiaYi/jVectorMap-Footprint>
+```
+git clone https://github.com/HelloWuJiaYi/jVectorMap-Footprint
+```
+
+## 问题反馈（感谢大家的问题反馈）
+
+- 部分服务器的编码问题导致显示文字乱码 | [@xiaohong.m](https://github.com/maxiaohong-m)
 
 ## 广告时间
 
