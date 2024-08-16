@@ -16,7 +16,6 @@ JVectorMap 官方网站提供了很多相关文档和使用示例，感兴趣的
 
 今天教大家通过 jVectorMap 制作旅行足迹地图，最终的效果可以查看下面的 Demo 演示（中国），并教大家如何将制作好的足迹地图嵌入到我们自己的博客中。
 
-Demo : <http://www.wujiayi.vip/index.php/46.html>
 
 ## 目录结构
 
